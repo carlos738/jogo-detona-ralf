@@ -1,0 +1,18 @@
+.containser{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../images/wall.png");
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    height: 90px;
+    width: 100px;
+    background-color: #oooooo;
+    color: #ffffff;
+    border-botton 5px solid #ffd
+
+}
